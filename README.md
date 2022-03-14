@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **VS code, juypter Notebook , Andriod Studio**
 
-- 🌱 I’m currently learning ** python , Web Devlopment , Flutter , App Devlopment , Machine Learning , **
+- 🌱 I’m currently learning ** python , Dart , Flutter , Firebase , App Devlopment ,  **
 
 - 📫 Reach me at **vborage32@gmail.com**
 
