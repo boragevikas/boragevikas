@@ -1,12 +1,13 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Vikas Borage</h1>
+<h3 align="center">E&TC Engineer| Flutter Developer|</h3>
 <h3 align="center">Passionate to learn new Technologies</h3>
 
-
-
-
-- 🔭 I’m currently working on **VS code, juypter Notebook , Andriod Studio**
-
 - 🌱 I’m currently learning **Flutter, Dart, Firebase, Git**
+
+- 💬 Ask me about **UI designing , flutter and Firebase Queries, git**
 
 - 📫 How to reach me **vborage32@gmail.com**
 
