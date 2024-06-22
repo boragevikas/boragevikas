@@ -3,11 +3,19 @@
 
 <h1 align="center">Hi 👋, I'm Vikas Borage</h1>
 <h3 align="center">E&TC Engineer| Flutter Developer|</h3>
-<h3 align="center">Passionate to learn new Technologies</h3>
+<h3 align="center">Passionate about building beautiful and functional mobile applications using Flutter .</h3>
 
-- 🌱 I’m currently learning **Flutter, Dart, Firebase, Git**
+- 🌱 Leveraged my expertise in Mobile Application development for 2 years at a company, building and deploying mobile applications.
 
-- 💬 Ask me about **UI designing , flutter and Firebase Queries, git**
+- 💬 **Skills**
+
+* Flutter (Advanced)
+* Dart (Advanced)
+* Firebase (Intermediate)
+* Git (Advanced)
+* MongoDB (Intermediate)
+* Android Development (Intermediate)
+* Play Store and App Store Publishing (Intermediate)
 
 - 📫 How to reach me **vborage32@gmail.com**
 
