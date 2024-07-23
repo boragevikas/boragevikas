@@ -1,13 +1,7 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-    <link rel="icon" href="images/favicon.jpg" type="image/jpg">
+
     
-</head>
-<body>
+
 <h1 align="center">Hi 👋, I'm Vikas Borage</h1>
 <h3 align="center">E&TC Engineer| Flutter Developer|</h3>
 <h3 align="center">Passionate about building beautiful and functional mobile applications using Flutter .</h3>
@@ -36,6 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boragevikas&show_icons=true&locale=en" alt="boragevikas" /></p>
 
-</body>
-</html>
+
 
