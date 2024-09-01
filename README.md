@@ -1,41 +1,160 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link rel="icon" href="images/favicon.jpg" type="image/jpg">
-    
+    <title>Vikas Borage - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 <body>
-<h1 align="center">Hi 👋, I'm Vikas Borage</h1>
-<h3 align="center">E&TC Engineer| Flutter Developer|</h3>
-<h3 align="center">Passionate about building beautiful and functional mobile applications using Flutter .</h3>
 
-- 🌱 Leveraged my expertise in Mobile Application development for 2 years at a company, building and deploying mobile applications.
+    <!-- Header Section -->
+    <header class="header">
+        <div class="container">
+            <h1>Hi 👋, I'm <span>Vikas Borage</span></h1>
+            <h3>E&TC Engineer | Flutter Developer</h3>
+            <p>Passionate about building beautiful and functional mobile applications using Flutter.</p>
+            <a href="#contact" class="btn">Contact Me</a>
+        </div>
+    </header>
 
-- 💬 **Skills**
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Leveraged my expertise in Mobile Application development for 2 years at a company, building and deploying mobile applications.
+            </p>
+        </div>
+    </section>
 
-* Flutter (Advanced)
-* Dart (Advanced)
-* Firebase (Intermediate)
-* Git (Advanced)
-* MongoDB (Intermediate)
-* Android Development (Intermediate)
-* Play Store and App Store Publishing (Intermediate)
+    <!-- Skills Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <div class="skill-grid">
+                <div class="skill">
+                    <i class="fab fa-flutter"></i>
+                    <h3>Flutter</h3>
+                    <p>Advanced</p>
+                </div>
+                <div class="skill">
+                    <i class="fas fa-code"></i>
+                    <h3>Dart</h3>
+                    <p>Advanced</p>
+                </div>
+                <div class="skill">
+                    <i class="fas fa-database"></i>
+                    <h3>Firebase</h3>
+                    <p>Intermediate</p>
+                </div>
+                <div class="skill">
+                    <i class="fab fa-git-alt"></i>
+                    <h3>Git</h3>
+                    <p>Advanced</p>
+                </div>
+                <div class="skill">
+                    <i class="fas fa-database"></i>
+                    <h3>MongoDB</h3>
+                    <p>Intermediate</p>
+                </div>
+                <div class="skill">
+                    <i class="fab fa-android"></i>
+                    <h3>Android Development</h3>
+                    <p>Intermediate</p>
+                </div>
+                <div class="skill">
+                    <i class="fas fa-mobile-alt"></i>
+                    <h3>Play Store and App Store Publishing</h3>
+                    <p>Intermediate</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-- 📫 How to reach me **vborage32@gmail.com**
+    <!-- Experience Section -->
+    <section id="experience" class="experience">
+        <div class="container">
+            <h2>Experience</h2>
+            <div class="experience-item">
+                <h3>Software Developer</h3>
+                <span>Recipto Pvt Ltd, Hyderabad | 05/2022 - Present</span>
+                <ul>
+                    <li>Creating Flutter Apps, publishing to appStore & play store</li>
+                    <li>CASA with Tac security</li>
+                    <li>Manual Application Testing- UI, Data Integration, Backend</li>
+                    <li>Integrate Google maps, Gmail, Firebase services to app</li>
+                    <li>Optimizing the App performance & App Size</li>
+                </ul>
+            </div>
+            <div class="experience-item">
+                <h3>Field Work</h3>
+                <span>Eduquity Career Technologies, Mumbai | 07/2021 - 08/2021</span>
+                <ul>
+                    <li>Assigning IP, Subnetting, Firewall & Antivirus settings</li>
+                    <li>Basic Networking, Troubleshooting</li>
+                </ul>
+            </div>
+            <div class="experience-item">
+                <h3>In Plant Trainee</h3>
+                <span>ITI limited, Bangalore | 06/2019 - 06/2019</span>
+                <ul>
+                    <li>Manufacturing and working of Military Telephones</li>
+                    <li>Injection Molding</li>
+                    <li>CNC Working, IOT Products, Optical Fiber Working</li>
+                </ul>
+            </div>
+        </div>
+    </section>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vikas-borage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-borage" height="30" width="40" /></a>
-</p>
+    <!-- Education Section -->
+    <section id="education" class="education">
+        <div class="container">
+            <h2>Education</h2>
+            <div class="education-item">
+                <h3>Bachelor of Engineering (B.E.)</h3>
+                <span>Smt. Indira Gandhi College Of Engineering, Ghansoli | 2017 - 2021</span>
+                <p>7.63 / 70.03%</p>
+            </div>
+            <div class="education-item">
+                <h3>HSC</h3>
+                <span>Guru Nanak Khalsa College, Matunga | 2015 - 2017</span>
+                <p>76.15%</p>
+            </div>
+            <div class="education-item">
+                <h3>SSC</h3>
+                <span>Nutan Viday Mandir, Mankhurd | 2014 - 2015</span>
+                <p>89.80%</p>
+            </div>
+        </div>
+    </section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:vborage32@gmail.com">vborage32@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/vikas-borage" target="_blank">vikas-borage</a></p>
+        </div>
+    </section>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boragevikas&show_icons=true&locale=en" alt="boragevikas" /></p>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2024 Vikas Borage</p>
+            <div class="socials">
+                <a href="https://linkedin.com/in/vikas-borage" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/boragevikas" target="_blank"><i class="fab fa-github"></i></a>
+            </div>
+        </div>
+    </footer>
 
+    <!-- Scroll Animation Script -->
+    <script src="scripts.js"></script>
 </body>
 </html>
+
+
 
