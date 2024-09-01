@@ -1,0 +1,128 @@
+/* Global Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+/* Container */
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+
+/* Header Styles */
+
+.header {
+    background: #333;
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.header h1 span {
+    color: #e8491d;
+}
+
+.header p {
+    font-size: 1.2em;
+    margin: 10px 0 20px;
+}
+
+.header .btn {
+    background: #e8491d;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.header .btn:hover {
+    background: #555;
+}
+
+
+/* Section Styles */
+
+section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 2em;
+    color: #333;
+}
+
+
+/* Skills Section */
+
+.skill-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+}
+
+.skill {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.skill i {
+    font-size: 2.5em;
+    color: #e8491d;
+    margin-bottom: 10px;
+}
+
+.skill:hover {
+    transform: translateY(-10px);
+}
+
+
+/* Experience and Education Sections */
+
+.experience-item,
+.education-item {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+
+/* Footer Styles */
+
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer .socials a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 1.5em;
+    transition: color 0.3s;
+}
+
+.footer .socials a:hover {}
