@@ -3,9 +3,9 @@ Hi there, I'm Vikas Borage! 👋
 
 👨‍💻 About Me
 
-I am an Electronics & Telecommunication Engineer and a Flutter Developer with over 2 years of experience in mobile application development. Passionate about building beautiful and functional mobile apps using Flutter.
+I am an Electronics & Telecommunication Engineer and a Flutter Developer with over 3 years of experience in mobile application development. Passionate about building beautiful and functional mobile apps using Flutter.
 
-🔭 Currently working as a Software Developer at Recipto Pvt Ltd, Hyderabad
+🔭 Currently working as a Software Developer at Recipto Pvt Ltd, Hyderabad 
 
 📱 Experience in developing and publishing apps on Google Play Store & Apple App Store
 
