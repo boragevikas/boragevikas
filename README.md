@@ -13,7 +13,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Open_to_Remote_Opportunities-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Open to Remote Opportunities" />
     <img src="https://img.shields.io/badge/Production_Releases-350%2B-0284C7?style=for-the-badge&logo=google-play&logoColor=white" alt="350+ Production Releases" />
-    <img src="https://img.shields.io/badge/Experience-3%2B_Years-6366F1?style=for-the-badge&logo=flutter&logoColor=white" alt="3+ Years Experience" />
+    <img src="https://img.shields.io/badge/Experience-3%2B_Years-6366F1?style=for-the-badge&logo=flutter&logoColor=white" alt="4+ Years Experience" />
   </p>
 
 </div>
