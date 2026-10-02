@@ -1,89 +1,88 @@
 <div align="center">
 
   # Hi there, I'm <a href="https://boragevikas.github.io/boragevikas/">Vikas Borage</a> 👋
-  ### Software Developer • Web, Mobile & Cloud Specialist
+  ### Senior Flutter Developer • Cross-Platform Mobile & AI-Augmented Engineer
 
   <p align="center">
     <a href="https://boragevikas.github.io/boragevikas/">🌐 Portfolio Website</a> •
+    <a href="https://boragetech.in">🚀 BorageTech Hub</a> •
     <a href="https://linkedin.com/in/vikas-borage">💼 LinkedIn</a> •
     <a href="mailto:boragevikast@gmail.com">✉️ Email Me</a> •
-    <a href="https://boragevikas.github.io/boragevikas/assets/Vikas_Borage_Flutter_Resume.pdf">📥 Download Resume</a>
+    <a href="https://boragevikas.github.io/boragevikas/assets/Vikas_Borage_Flutter_Resume.pdf">📥 Download 1-Page ATS Resume</a>
   </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Open_to_Remote_Opportunities-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Open to Remote Opportunities" />
     <img src="https://img.shields.io/badge/Production_Releases-350%2B-0284C7?style=for-the-badge&logo=google-play&logoColor=white" alt="350+ Production Releases" />
     <img src="https://img.shields.io/badge/Experience-4%2B_Years-6366F1?style=for-the-badge&logo=codeforces&logoColor=white" alt="4+ Years Experience" />
+    <img src="https://img.shields.io/badge/Crash--Free-99.8%25-10B981?style=for-the-badge&logo=firebase&logoColor=white" alt="99.8% Crash-Free" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-I'm a passionate **Software Developer** with **4+ years of professional experience** architecting, testing, and deploying production applications across **web, mobile, and cloud platforms**.
+I am a **Senior Flutter Developer** with **4+ years of professional engineering experience** specializing in high-performance, cross-platform mobile applications for **Android & iOS** using **Flutter & Dart**.
 
-- 🔭 **Current Focus:** Software Developer at **Recipto**, managing end-to-end frontend engineering and store deployments for two production apps with **350+ releases** across Google Play Store and Apple App Store.
-- 🏗️ **Architecture & State:** Clean Architecture, Layered MVVM, and reactive state management using **Provider, GetX, and Bloc/Cubit**.
-- ⚡ **Performance & Quality:** Memory profiling, app size optimization, and smooth UI rendering.
-- ☁️ **Cloud & Storage:** Real-time messaging with **Firebase Cloud Messaging (FCM)**, robust networking via **Dio & WebSockets**, and multi-database support with **MongoDB, Cloud Firestore, Hive & SQLite**.
-- 🚀 **Integrations:** Checkout flows with **PhonePe & Razorpay SDKs**, deep linking with **Branch.io SDK**, Google Maps API, and OAuth authentication.
-- 📚 **Indie Maker:** Published author on Amazon KDP and builder of web utilities & mobile products at [BorageTech](https://boragevikas.github.io/boragetech/).
+- 🔭 **Current Focus:** Leading mobile architecture and release engineering for flagship apps at **Recipto**, managing over **350+ production store deployments** across Google Play Store and Apple App Store.
+- 🏗️ **Architecture & State Management:** Clean Architecture, Layered MVVM, and reactive state management utilizing **GetX, BLoC / Cubit, and Provider**.
+- ⚡ **Mobile Performance:** 60/120 FPS frame budgeting, memory leak mitigation, widget rebuild profiling with Flutter DevTools, and 30%+ APK/IPA size reduction via ProGuard/R8 obfuscation.
+- 💳 **Payment Rails:** Secure checkout flows integrating **PhonePe SDK** and **Razorpay Gateway** (UPI intent, webhook listeners, HMAC-SHA256 signature verification).
+- 🤖 **AI-Augmented Developer Velocity:** Pioneers agentic workflows utilizing **Claude Code, OpenAI Codex, and Google Antigravity**, and develops **custom Model Context Protocol (MCP) servers** to automate repetitive tasks like DTO serialization, mock data scaffolding, and test generation.
+- 🚀 **Indie SaaS Founder:** Creator and operator of [BorageTech](https://boragetech.in), shipping live commercial utilities including **BT SplitBill**, **BT QR Studio**, and **BT Energy Calculator**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Technical Skills
 
 <div align="center">
 
-| Category | Technologies & Tools |
+| Domain | Technologies, Frameworks & Tooling |
 | :--- | :--- |
-| **Languages & Core** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) |
-| **Frameworks & Platforms** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) |
-| **State & Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Modular-0284C7?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-State-0284C7?style=flat-square) ![GetX](https://img.shields.io/badge/GetX-Reactive-6366F1?style=flat-square) ![Bloc](https://img.shields.io/badge/Bloc%20%2F%20Cubit-State-4F46E5?style=flat-square) |
-| **Databases & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-sqflite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-NoSQL-F59E0B?style=flat-square) |
-| **Networking & APIs** | ![REST API](https://img.shields.io/badge/REST%20APIs-Dio%20%26%20Http-0284C7?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-0EA5E9?style=flat-square) ![FCM](https://img.shields.io/badge/FCM-Push%20Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Deployments & Tools** | ![Google Play](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat-square&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App%20Store%20Connect-1D1D1F?style=flat-square&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Mobile & Cross-Platform** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![DevTools](https://img.shields.io/badge/Flutter_DevTools-02569B?style=flat-square) ![Adaptive UI](https://img.shields.io/badge/Material_3_%26_Cupertino-475569?style=flat-square) |
+| **Architecture & State** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Modular-0284C7?style=flat-square) ![GetX](https://img.shields.io/badge/GetX-Reactive_State_%26_Routes-6366F1?style=flat-square) ![Bloc](https://img.shields.io/badge/Bloc_%2F_Cubit-State-4F46E5?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-State-0284C7?style=flat-square) ![MVVM](https://img.shields.io/badge/Layered_MVVM-DI-059669?style=flat-square) |
+| **AI Tooling & MCP** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square) ![Codex](https://img.shields.io/badge/OpenAI_Codex-10A37F?style=flat-square&logo=openai&logoColor=white) ![Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![MCP Servers](https://img.shields.io/badge/Custom_MCP_Servers-Connectors-7C3AED?style=flat-square) |
+| **Payments & Commerce** | ![PhonePe](https://img.shields.io/badge/PhonePe_SDK-UPI_Intent-5F259F?style=flat-square) ![Razorpay](https://img.shields.io/badge/Razorpay-Live_Gateway-0C2340?style=flat-square&logo=razorpay&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-HMAC_SHA256-10B981?style=flat-square) ![Invoicing](https://img.shields.io/badge/Statutory_GST-Invoicing-F59E0B?style=flat-square) |
+| **Cloud & Databases** | ![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-NoSQL_Storage-F59E0B?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-sqflite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Release & DevOps** | ![Play Store](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=google-play&logoColor=white) ![App Store](https://img.shields.io/badge/App_Store_Connect-1D1D1F?style=flat-square&logo=apple&logoColor=white) ![TestFlight](https://img.shields.io/badge/TestFlight-Beta-2563EB?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
 ---
 
-### 📱 Featured Projects & Highlights
+### 🚀 Featured Production Projects & BorageTech SaaS
 
-#### 🛒 **[Recipto Customer & Store Rider App Suite](https://boragevikas.github.io/boragevikas/#projects)**
-> Production dual-application retail & merchant delivery platform with 350+ releases.
-- Managed frontend application architecture, UI state pipelines, and store releases for Android and iOS.
-- Integrated real-time messaging, order dispatch chat, and multi-format document uploads (PNG, JPG, PDF).
-- Integrated PhonePe payment gateway SDK and Branch.io deep linking for seamless user checkout and onboarding.
+#### 📱 **[Recipto Mobile Suite (Customer & Rider Apps)](https://boragevikas.github.io/boragevikas/#projects)**
+- Orchestrated 350+ production releases to Google Play Store and Apple App Store with 99.8% crash-free session stability.
+- Built clean layered architecture with **GetX** and **Provider**, cleanly decoupling UI from business logic.
+- Integrated **PhonePe SDK** and **Razorpay** checkout workflows, real-time **Firebase Cloud Messaging (FCM)** order dispatch chat, and **Branch.io** deep linking.
 
-#### 💸 **[BT SplitBill — Smart Group Expense Sharing Platform](https://splitbill.boragetech.in/)**
-> Production expense-splitting app for managing shared group costs, trips, and roommates.
-- **Integrated WhatsApp Settlement:** Direct pre-filled debt reminders to settle up easily without awkward conversations.
-- **Smart Debt Simplification:** Automated algorithm minimizing the total number of transactions across group members.
-- **Contact Integration & Privacy:** Native phonebook contact picker for fast member addition with built-in privacy.
-- **Live Products:** [Google Play Store](https://play.google.com/store/apps/details?id=in.boragetech.btsplitbill) • [Web Application](https://splitbill.boragetech.in/)
+#### 💸 **[BT SplitBill — Smart Group Expense Sharing App](https://splitbill.boragetech.in/)**
+- **Live Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=in.boragetech.btsplitbill) | **Web App:** [splitbill.boragetech.in](https://splitbill.boragetech.in/) | **GitHub:** [boragevikas/split-ease](https://github.com/boragevikas/split-ease)
+- Production Flutter application combining local **Hive NoSQL** with **Cloud Firestore** for zero-latency offline expense tracking.
+- Features native address book contact picker, automated **WhatsApp settlement reminders**, and graph-based debt minimization algorithm reducing settle transactions by up to 60%.
 
-#### 🌐 **[BorageTech Web Utilities & Automation](https://boragevikas.github.io/boragetech/)**
-> Live web applications and digital automation utilities.
-- **[BT Energy Calculator](https://energy.boragetech.in/):** Utility tariff estimator across Indian DISCOMs with appliance payback ROI analysis.
-- **[BT QR Studio](https://boragetech.in/#products):** Client-side branded QR code generation suite supporting custom frames and bulk exports.
-- **[ManageLinks](https://managelinks.boragetech.in/?demo=true):** Mobile-first link-in-bio curation and product recommendation engine.
-- **Amazon KDP Automation:** Python publishing engine compiling storyboards and illustrations into validated print-ready and EPUB formats.
+#### 🔲 **[BT QR Studio — Dynamic QR Generator & SaaS](https://qrstudio.boragetech.in/)**
+- **Live Platform:** [qrstudio.boragetech.in](https://qrstudio.boragetech.in/) | **GitHub:** [boragevikas/QR-Code-Generator](https://github.com/boragevikas/QR-Code-Generator)
+- Enterprise QR studio supporting 17 dynamic/static QR types with **Cloudflare R2** cloud asset storage, scan analytics, and live **Razorpay** checkout with automated GST-compliant invoicing.
 
-#### 🎙️ **Voice-Enabled Assistant & Face Recognition**
-> Accessibility assistant for visually impaired users.
-- Built with Python, OpenCV, and TensorFlow speech processing paired with a companion mobile application.
+#### ⚡ **[BT Energy Calculator — Utility Tariff & Solar ROI Estimator](https://energy.boragetech.in/)**
+- **Live Tool:** [energy.boragetech.in](https://energy.boragetech.in/) | **GitHub:** [boragevikas/BT-Energy-Calculator](https://github.com/boragevikas/BT-Energy-Calculator)
+- Interactive utility platform modeling electricity tariffs across Indian DISCOMs, appliance wattage consumption, and solar investment ROI payback.
 
----
+#### 🔗 **[ManageLinks — Smart Link & Deal Curation Engine](https://managelinks.boragetech.in/?demo=true)**
+- **Live Demo:** [managelinks.boragetech.in](https://managelinks.boragetech.in/?demo=true) | **GitHub:** [boragevikas/managelinks](https://github.com/boragevikas/managelinks)
+- Mobile-first link-in-bio and deal curation engine powered by Firebase Hosting & Firestore for real-time tracking and automated click analytics.
 
-### 📊 GitHub Activity & Stats
+#### 🌐 **[BorageTech Platform Hub](https://boragetech.in)**
+- **Official Hub:** [boragetech.in](https://boragetech.in) | **GitHub:** [boragevikas/boragetech](https://github.com/boragevikas/boragetech)
+- The central brand portal showcasing privacy-focused software utilities and production tools built with HTML5, Tailwind CSS, and Alpine.js.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boragevikas&show_icons=true&theme=radical&hide_border=true&bg_color=0B0F19&text_color=94A3B8&icon_color=06B6D4&title_color=F8FAFC" alt="Vikas's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boragevikas&layout=compact&theme=radical&hide_border=true&bg_color=0B0F19&text_color=94A3B8&title_color=F8FAFC" alt="Top Languages" height="165" />
-</div>
+#### 📖 **[Amazon KDP Automated Storybook Pipeline](https://github.com/boragevikas/book)**
+- **Repository:** [boragevikas/book](https://github.com/boragevikas/book) | **Author:** Vikas Borage
+- End-to-end Python pipeline transforming illustrations and storyboards into bleed-compliant print PDFs and fixed-layout EPUB3 eBooks for Amazon Kindle (*The Little Dragon Series*).
 
 ---
 
@@ -111,11 +110,15 @@ I'm a passionate **Software Developer** with **4+ years of professional experien
     <img src="https://img.shields.io/badge/Portfolio-boragevikas.github.io-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="https://boragetech.in">
+    <img src="https://img.shields.io/badge/SaaS_Hub-boragetech.in-10B981?style=for-the-badge&logo=globe&logoColor=white" alt="BorageTech Hub" />
+  </a>
+  &nbsp;
   <a href="tel:+919326125447">
     <img src="https://img.shields.io/badge/Phone-%2B91_9326125447-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp / Phone" />
   </a>
 
   <br/><br/>
-  <sub>© 2026 Vikas Borage • Software Developer (Web, Mobile & Cloud)</sub>
+  <sub>© 2026 Vikas Borage • Senior Flutter Developer &amp; BorageTech Creator</sub>
 
 </div>
