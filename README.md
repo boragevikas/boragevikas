@@ -26,7 +26,7 @@
 
 I am a **Senior Flutter Developer** with **4+ years of professional engineering experience** specializing in high-performance, cross-platform mobile applications for **Android & iOS** using **Flutter & Dart**.
 
-- 🔭 **Current Focus:** Leading mobile architecture and release engineering for flagship apps at **Recipto**, managing over **350+ production store deployments** across Google Play Store and Apple App Store.
+- 🔭 **Current Focus:** Leading cross-platform mobile architecture and release engineering, managing over **350+ production store deployments** across Google Play Store and Apple App Store.
 - 🏗️ **Architecture & State Management:** Clean Architecture, Layered MVVM, and reactive state management utilizing **GetX, BLoC / Cubit, and Provider**.
 - ⚡ **Mobile Performance:** 60/120 FPS frame budgeting, memory leak mitigation, widget rebuild profiling with Flutter DevTools, and 30%+ APK/IPA size reduction via ProGuard/R8 obfuscation.
 - 💳 **Payment Rails:** Secure checkout flows integrating **PhonePe SDK** and **Razorpay Gateway** (UPI intent, webhook listeners, HMAC-SHA256 signature verification).
@@ -54,35 +54,30 @@ I am a **Senior Flutter Developer** with **4+ years of professional engineering 
 
 ### 🚀 Featured Production Projects & BorageTech SaaS
 
-#### 📱 **[Recipto Mobile Suite (Customer & Rider Apps)](https://boragevikas.github.io/boragevikas/#projects)**
-- Orchestrated 350+ production releases to Google Play Store and Apple App Store with 99.8% crash-free session stability.
-- Built clean layered architecture with **GetX** and **Provider**, cleanly decoupling UI from business logic.
-- Integrated **PhonePe SDK** and **Razorpay** checkout workflows, real-time **Firebase Cloud Messaging (FCM)** order dispatch chat, and **Branch.io** deep linking.
-
 #### 💸 **[BT SplitBill — Smart Group Expense Sharing App](https://splitbill.boragetech.in/)**
-- **Live Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=in.boragetech.btsplitbill) | **Web App:** [splitbill.boragetech.in](https://splitbill.boragetech.in/) | **GitHub:** [boragevikas/split-ease](https://github.com/boragevikas/split-ease)
+- **Live Android App:** [Google Play Store](https://play.google.com/store/apps/details?id=in.boragetech.btsplitbill) | **Web App:** [splitbill.boragetech.in](https://splitbill.boragetech.in/)
 - Production Flutter application combining local **Hive NoSQL** with **Cloud Firestore** for zero-latency offline expense tracking.
 - Features native address book contact picker, automated **WhatsApp settlement reminders**, and graph-based debt minimization algorithm reducing settle transactions by up to 60%.
 
 #### 🔲 **[BT QR Studio — Dynamic QR Generator & SaaS](https://qrstudio.boragetech.in/)**
-- **Live Platform:** [qrstudio.boragetech.in](https://qrstudio.boragetech.in/) | **GitHub:** [boragevikas/QR-Code-Generator](https://github.com/boragevikas/QR-Code-Generator)
+- **Live Platform:** [qrstudio.boragetech.in](https://qrstudio.boragetech.in/)
 - Enterprise QR studio supporting 17 dynamic/static QR types with **Cloudflare R2** cloud asset storage, scan analytics, and live **Razorpay** checkout with automated GST-compliant invoicing.
 
 #### ⚡ **[BT Energy Calculator — Utility Tariff & Solar ROI Estimator](https://energy.boragetech.in/)**
-- **Live Tool:** [energy.boragetech.in](https://energy.boragetech.in/) | **GitHub:** [boragevikas/BT-Energy-Calculator](https://github.com/boragevikas/BT-Energy-Calculator)
+- **Live Tool:** [energy.boragetech.in](https://energy.boragetech.in/)
 - Interactive utility platform modeling electricity tariffs across Indian DISCOMs, appliance wattage consumption, and solar investment ROI payback.
 
 #### 🔗 **[ManageLinks — Smart Link & Deal Curation Engine](https://managelinks.boragetech.in/?demo=true)**
-- **Live Demo:** [managelinks.boragetech.in](https://managelinks.boragetech.in/?demo=true) | **GitHub:** [boragevikas/managelinks](https://github.com/boragevikas/managelinks)
+- **Live Demo:** [managelinks.boragetech.in](https://managelinks.boragetech.in/?demo=true)
 - Mobile-first link-in-bio and deal curation engine powered by Firebase Hosting & Firestore for real-time tracking and automated click analytics.
 
 #### 🌐 **[BorageTech Platform Hub](https://boragetech.in)**
-- **Official Hub:** [boragetech.in](https://boragetech.in) | **GitHub:** [boragevikas/boragetech](https://github.com/boragevikas/boragetech)
+- **Official Hub:** [boragetech.in](https://boragetech.in)
 - The central brand portal showcasing privacy-focused software utilities and production tools built with HTML5, Tailwind CSS, and Alpine.js.
 
-#### 📖 **[Amazon KDP Automated Storybook Pipeline](https://github.com/boragevikas/book)**
-- **Repository:** [boragevikas/book](https://github.com/boragevikas/book) | **Author:** Vikas Borage
-- End-to-end Python pipeline transforming illustrations and storyboards into bleed-compliant print PDFs and fixed-layout EPUB3 eBooks for Amazon Kindle (*The Little Dragon Series*).
+#### 📖 **[The Little Dragon Who Lost His Roar — Published Children's Book](https://mybook.to/TheLittleDragonBook)**
+- **Amazon Book:** [mybook.to/TheLittleDragonBook](https://mybook.to/TheLittleDragonBook) | **Author:** Vikas Borage
+- Published children's picture storybook authored by Vikas Borage. Created using an automated high-resolution Python publishing pipeline ensuring strict 300 DPI full-bleed print dimensions, wrap covers, and fixed-layout Kindle EPUB3 formatting.
 
 ---
 
